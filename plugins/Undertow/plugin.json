@@ -1,0 +1,16 @@
+{
+  "name": "Undertow",
+  "manufacturer": "Fullban",
+  "version": "1.0.0",
+  "kind": "effect",
+  "uid": "FEYY",
+  "numInputs": 2,
+  "numOutputs": 2,
+  "category": "Effect",
+  "file32": "VST/undertow-arm32.so",
+  "file64": "VST/undertow-arm64.so",
+  "description": "Altered delay with Analogue, Tape, Lo-Fi and Reverse modes, degrading repeats, runaway feedback and tempo sync.",
+  "author": "Fullban",
+  "url": "https://github.com/fullbann/undertow",
+  "license": "MIT"
+}

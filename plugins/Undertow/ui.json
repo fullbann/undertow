@@ -1,0 +1,17 @@
+{
+  "kit": { "theme": "cyan", "accent": "ffe0a458" },
+  "pages": [
+    { "name": "DELAY",
+      "controls": [
+        { "param": "Time", "widget": "knob" },
+        { "param": "Sync", "widget": "knob", "overlay": "menu" },
+        { "param": "Repeats", "widget": "knob" },
+        { "param": "Mix", "widget": "knob" },
+        { "param": "Mode", "widget": "knob", "overlay": "menu" },
+        { "param": "Tone", "widget": "knob" },
+        { "param": "Degrade", "widget": "knob" },
+        { "param": "Spread", "widget": "knob" },
+        { "param": "Tails", "widget": "switch" }
+      ] }
+  ]
+}
