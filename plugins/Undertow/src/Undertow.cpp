@@ -44,7 +44,7 @@ public:
         i.name = "Undertow";
         i.vendor = "Fullban";
         i.uniqueId = MPC_FOURCC('F', 'E', 'Y', 'Y');   // == "uid" in plugin.json
-        i.version = 1000;
+        i.version = 1050;
         i.isInstrument = false;
         i.numInputs = 2;
         i.numOutputs = 2;
